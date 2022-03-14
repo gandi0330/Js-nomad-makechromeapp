@@ -2,7 +2,7 @@
 
 ## I Learned this!! 😀
 
-Build the basics of JavaScript 💪
+the basics of JavaScript 💪
 - variables
 - functions
 - data types
